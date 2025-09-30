@@ -5,3 +5,4 @@
 | Juego | Jugadores simultáneos | Peak |
 | ----- | --------------------- | ------------ |
 | Lethal Company | 1.721 | 240.817 |
+| Dead by Daylight | 31,035 | 120,717 |
