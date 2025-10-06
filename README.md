@@ -8,3 +8,5 @@
 | Dead by Daylight | 31,035 | 120,717 |
 | Buckshot Roulette | 1,639 | 20,226 |
 | Megabonk | 55,763 | 117,336 |
+| Doom Eternal | 3,198 | 104,891 |
+| Mortal Kombat X | 389 | 15,743 |
